@@ -1,0 +1,22 @@
+.main {
+    background-color: black;
+}
+
+.mainHeading {
+    color: red;
+}
+
+.d-block {
+    height: 80vh;
+}
+
+.head {
+    color: white;
+    font-family: "Roboto";
+}
+
+.image{
+    height: 20vh;
+    width: 18vw;
+    margin-right: 3px;
+} 
