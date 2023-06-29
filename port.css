@@ -1,0 +1,85 @@
+
+
+.mainheading {
+    color: black;
+}
+
+.container {
+    background-color: white;
+}
+
+.main {
+    background-image: url('https://img.freepik.com/free-photo/blue-toned-set-paper-sheets-with-copy-space_23-2148320447.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.heading {
+    padding-left: 20px;
+    padding-top: 20px;
+    color: darkblue;
+    font-size: 25px;
+    font-family: "Italic";
+}
+
+.head {
+    font-size: 20px;
+    padding: 20px;
+    color: black;
+}
+
+.para {
+    padding-left: 20px;
+    color: black;
+}
+
+.button {
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.about {
+    color: darkblue;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: "Roboto";
+    margin-bottom: 20px;
+}
+
+#nav1 {
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.AboutMe {
+    margin-top: 80px;
+}
+
+#nav2 {
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#nav3 {
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#nav4 {
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.paragraph {
+    color: darkblue;
+    margin-left: 20px;
+}
+
+.image {
+    height: 30vh;
+}
